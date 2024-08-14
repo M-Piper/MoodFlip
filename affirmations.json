@@ -1,0 +1,220 @@
+{
+  "emotions": [
+    {
+      "emotion": "anxious",
+      "affirmations": [
+        "I am in control of my thoughts and emotions.",
+        "I am safe, and everything is okay.",
+        "I have the power to handle whatever comes my way.",
+        "My feelings are valid, but they don't define me.",
+        "I am stronger than my anxiety.",
+        "I can take things one step at a time.",
+        "I trust myself to make the right decisions.",
+        "I am capable of finding peace within myself.",
+        "I am doing my best, and that is enough.",
+        "I can take deep breaths and release tension."
+      ],
+      "suggestions": [
+        "Practice deep breathing for 5 minutes.",
+        "Go for a short walk outside.",
+        "Write down what's on your mind.",
+        "Listen to calming music.",
+        "Try a quick meditation session.",
+        "Focus on grounding exercises, like feeling your feet on the ground.",
+        "Drink a glass of water slowly.",
+        "Spend time with a pet or loved one.",
+        "Do a gentle stretching routine.",
+        "Engage in a creative activity like drawing or writing."
+      ]
+    },
+    {
+      "emotion": "self-conscious",
+      "affirmations": [
+        "I am unique, and that's my strength.",
+        "I accept myself as I am.",
+        "I am worthy of love and respect.",
+        "I don't need to compare myself to others.",
+        "My self-worth is not defined by others' opinions.",
+        "I am confident in who I am.",
+        "I choose to focus on my strengths.",
+        "I am enough just as I am.",
+        "I am growing and learning every day.",
+        "I embrace my individuality."
+      ],
+      "suggestions": [
+        "Wear something that makes you feel confident.",
+        "List three things you like about yourself.",
+        "Practice standing in a power pose for two minutes.",
+        "Avoid social media for an hour.",
+        "Remind yourself of past accomplishments.",
+        "Engage in a hobby you enjoy.",
+        "Reach out to a supportive friend.",
+        "Write down what makes you feel proud.",
+        "Practice positive self-talk.",
+        "Do something kind for someone else."
+      ]
+    },
+    {
+      "emotion": "insecure",
+      "affirmations": [
+        "I am capable and strong.",
+        "I trust myself and my abilities.",
+        "I have the power to create change.",
+        "I am deserving of good things.",
+        "I am growing into the person I want to be.",
+        "I am learning and improving every day.",
+        "I can handle any challenge that comes my way.",
+        "I believe in my worth and value.",
+        "I am proud of what I have achieved.",
+        "I am worthy of love and success."
+      ],
+      "suggestions": [
+        "Focus on a recent achievement.",
+        "Spend time doing something you're good at.",
+        "Talk to someone who supports you.",
+        "Challenge negative thoughts by asking if they're true.",
+        "Set a small, achievable goal and work towards it.",
+        "Write down what you're grateful for.",
+        "Surround yourself with positive influences.",
+        "Take a break and do something fun.",
+        "Practice self-care, like taking a bath or reading a book.",
+        "Visualize a positive outcome to a challenge you're facing."
+      ]
+    },
+    {
+      "emotion": "sad",
+      "affirmations": [
+        "It's okay to feel sad; this too shall pass.",
+        "I am allowed to take time to heal.",
+        "I deserve to care for myself.",
+        "I am stronger than I think.",
+        "I can find small moments of joy.",
+        "I am not alone in this feeling.",
+        "My feelings are valid and will change.",
+        "I am resilient and will rise above this.",
+        "I have the support I need to get through this.",
+        "I am worthy of happiness."
+      ],
+      "suggestions": [
+        "Talk to a friend or loved one.",
+        "Watch a movie that makes you laugh.",
+        "Spend time in nature, even if it's just sitting outside.",
+        "Write down your feelings in a journal.",
+        "Do something creative, like painting or cooking.",
+        "Listen to uplifting music.",
+        "Engage in a physical activity like dancing or yoga.",
+        "Take a long, relaxing bath.",
+        "Spend time with a pet.",
+        "Treat yourself to something you enjoy."
+      ]
+    },
+    {
+      "emotion": "bored",
+      "affirmations": [
+        "I can use this time to explore new interests.",
+        "I am open to trying something new.",
+        "I can turn this moment into an opportunity.",
+        "My creativity can flourish in quiet moments.",
+        "I am resourceful and can find ways to enjoy my time.",
+        "I am free to use this time however I choose.",
+        "I am capable of making my own fun.",
+        "I can turn boredom into a chance to learn.",
+        "I have the power to change how I feel.",
+        "I am in control of my time."
+      ],
+      "suggestions": [
+        "Start a new hobby or craft.",
+        "Read a book or listen to an audiobook.",
+        "Try cooking a new recipe.",
+        "Learn something new online.",
+        "Organize a room or a part of your home.",
+        "Take a walk and observe your surroundings.",
+        "Practice a new skill, like drawing or playing an instrument.",
+        "Write a story or poem.",
+        "Call or message a friend you haven't talked to in a while.",
+        "Do a puzzle or play a game."
+      ]
+    },
+    {
+      "emotion": "lonely",
+      "affirmations": [
+        "I am loved and valued.",
+        "I am not alone in this feeling.",
+        "I am worthy of connection and friendship.",
+        "I have people who care about me.",
+        "My feelings are temporary and will pass.",
+        "I can reach out and connect with others.",
+        "I am open to new relationships and connections.",
+        "I can be my own best friend.",
+        "I am strong enough to get through this.",
+        "I am connected to the world around me."
+      ],
+      "suggestions": [
+        "Call or video chat with a friend or family member.",
+        "Join an online community or group.",
+        "Volunteer for a cause you care about.",
+        "Take a class or workshop to meet new people.",
+        "Spend time with a pet or visit an animal shelter.",
+        "Write a letter or send a message to someone you care about.",
+        "Go for a walk in a park or a public place.",
+        "Practice mindfulness or meditation to feel more connected.",
+        "Listen to a podcast or watch a show that makes you feel connected.",
+        "Try a new activity where you might meet others with similar interests."
+      ]
+    },
+    {
+      "emotion": "panicky",
+      "affirmations": [
+        "I am safe in this moment.",
+        "I can take things one step at a time.",
+        "I am in control of my breathing.",
+        "I am capable of calming myself.",
+        "I trust my ability to manage this situation.",
+        "This feeling is temporary and will pass.",
+        "I can find peace within myself.",
+        "I have faced challenges before and I can do it again.",
+        "I am stronger than my fear.",
+        "I can focus on the present and let go of worry."
+      ],
+      "suggestions": [
+        "Focus on your breathing—inhale deeply, exhale slowly.",
+        "Hold a comforting object, like a blanket or a soft toy.",
+        "Splash cold water on your face.",
+        "Ground yourself by naming five things you can see around you.",
+        "Practice progressive muscle relaxation.",
+        "Visualize a calm and peaceful place.",
+        "Talk to someone you trust about how you're feeling.",
+        "Do a repetitive, soothing activity like knitting or coloring.",
+        "Take a break from what you're doing and do something calming.",
+        "Listen to calming music or nature sounds."
+      ]
+    },
+    {
+      "emotion": "ruminating",
+      "affirmations": [
+        "I am not defined by my thoughts.",
+        "I can let go of what I cannot change.",
+        "I am in control of my mind.",
+        "I choose to focus on the present moment.",
+        "I trust that things will work out as they should.",
+        "I can redirect my thoughts to positive ones.",
+        "I am more than my worries.",
+        "I can take things one day at a time.",
+        "I am capable of finding peace in the now.",
+        "I can release the past and focus on the future."
+      ],
+      "suggestions": [
+        "Distract yourself with a physical activity like walking or cleaning.",
+        "Write down your thoughts and then set them aside.",
+        "Engage in a mindfulness or meditation practice.",
+        "Talk to someone about what's on your mind.",
+        "Listen to a podcast or watch a video on a different topic.",
+        "Do a creative activity to shift your focus.",
+        "Set a timer for 5 minutes to think about it, then move on.",
+        "Practice deep breathing exercises.",
+        "Focus on the sensations around you, like what you can see, hear, or smell.",
+        "Do something kind for someone else to shift your perspective."
+      ]
+    }
+  ]
+}
